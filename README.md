@@ -1,16 +1,20 @@
-# quizzler_pbm
+# 🧠 Quizzler App
 
-A new Flutter project.
+Quizzler adalah aplikasi kuis berbasis Flutter sederhana yang menampilkan pertanyaan-pertanyaan benar/salah kepada pengguna. Pengguna dapat menjawab pertanyaan dan melihat skor di bagian bawah layar. Ketika semua pertanyaan sudah selesai, akan muncul peringatan (alert) menggunakan **rflutter_alert** untuk memberi tahu jumlah jawaban benar dan salah.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
+- 📝 Menampilkan pertanyaan benar/salah secara berurutan.
+- ✅ Menampilkan icon benar (check) atau salah (close) sesuai jawaban.
+- 🔄 Reset kuis ketika sudah selesai.
+- ⚠️ Alert pop-up menggunakan `rflutter_alert` ketika kuis selesai.
+- 📊 Menampilkan jumlah jawaban benar dan salah.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Hasil Project
+ 
+![Hasil Project](assets/images/hasil_project.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
